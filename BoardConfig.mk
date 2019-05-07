@@ -8,6 +8,13 @@
 BOARD_VENDOR := oneplus
 DEVICE_PATH := device/oneplus/hotdog
 
+# A/B
+AB_OTA_PARTITIONS += \
+    odm \
+    product \
+    recovery \
+    vbmeta_system
+
 # Display
 TARGET_SCREEN_DENSITY := 560
 
