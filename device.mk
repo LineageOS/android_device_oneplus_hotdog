@@ -13,6 +13,9 @@ $(call inherit-product, device/oneplus/sm8150-common/common.mk)
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-lineage/lineage-sdk
+
 # A/B
 AB_OTA_PARTITIONS += \
     odm \
