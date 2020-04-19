@@ -38,7 +38,9 @@ PRODUCT_PACKAGES += \
 # Device init scripts
 PRODUCT_PACKAGES += \
     fstab.qcom \
-    init.display.hotdog.rc
+    setup_logical.sh \
+    init.display.hotdog.rc \
+    init.recovery.hotdog.rc
 
 # fastbootd
 PRODUCT_PACKAGES += \
