@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff4be34a_566a286c",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-04-19T19:42:05Z",
+      "side": 1,
+      "message": "alphabetical order pls",
+      "range": {
+        "startLine": 41,
+        "startChar": 4,
+        "endLine": 41,
+        "endChar": 20
+      },
+      "revId": "a25d5de137e89d9ad954e8829fc1acbab44be25a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a0e430a8_8e0b67d8",
+        "filename": "rootdir/bin/setup_logical.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-04-19T19:42:05Z",
+      "side": 1,
+      "message": "not needed",
+      "range": {
+        "startLine": 4,
+        "startChar": 11,
+        "endLine": 4,
+        "endChar": 12
+      },
+      "revId": "a25d5de137e89d9ad954e8829fc1acbab44be25a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "50ccd24e_4bd12d76",
+        "filename": "rootdir/bin/setup_logical.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2020-04-19T19:42:05Z",
+      "side": 1,
+      "message": "I\u0027d put newlines between loop; ln and exit.",
+      "revId": "a25d5de137e89d9ad954e8829fc1acbab44be25a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
