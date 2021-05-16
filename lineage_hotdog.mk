@@ -18,7 +18,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_hotdog
 PRODUCT_DEVICE := hotdog
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := OnePlus 7T Pro
+PRODUCT_MODEL := HD1917
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_AAPT_CONFIG := xxxhdpi
