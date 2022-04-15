@@ -49,6 +49,7 @@ TARGET_COPY_OUT_SYSTEM_EXT := system_ext
 
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
+TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/init/fstab.qcom
