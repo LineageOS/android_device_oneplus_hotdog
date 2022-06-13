@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9fe4837c_bab29520",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 20352
+      },
+      "writtenOn": "2022-06-13T06:26:22Z",
+      "side": 1,
+      "message": "This needs to be adjusted as well: https://github.com/LineageOS/android_device_oneplus_hotdog/blob/lineage-19.1/overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml#L20",
+      "revId": "f2fd92785abb2113afc28599265d09f93c87bc05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
