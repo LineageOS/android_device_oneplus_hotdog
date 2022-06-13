@@ -16,6 +16,24 @@
       "message": "This needs to be adjusted as well: https://github.com/LineageOS/android_device_oneplus_hotdog/blob/lineage-19.1/overlay/frameworks/base/packages/SystemUI/res/values/dimens.xml#L20",
       "revId": "f2fd92785abb2113afc28599265d09f93c87bc05",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "949ee349_3faa30aa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-06-13T07:10:33Z",
+      "side": 1,
+      "message": "Why?\n\n```\ncore/res/res/values-land/dimens.xml\n31:    \u003cdimen name\u003d\"status_bar_height\"\u003e@dimen/status_bar_height_landscape\u003c/dimen\u003e\n\ncore/res/res/values/dimens.xml\n48:    \u003cdimen name\u003d\"status_bar_height\"\u003e@dimen/status_bar_height_portrait\u003c/dimen\u003e\n```",
+      "parentUuid": "9fe4837c_bab29520",
+      "revId": "f2fd92785abb2113afc28599265d09f93c87bc05",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
