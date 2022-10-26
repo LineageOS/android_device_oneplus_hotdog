@@ -52,6 +52,24 @@
       "parentUuid": "bfd3c127_9300b1b3",
       "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9cfb5499_c0d20a7a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-10-26T08:24:36Z",
+      "side": 1,
+      "message": "sources/com/android/internal/os/PowerProfileExtImpl.java\n24:    private String mProjectPowerProfile \u003d \"/odm/etc/power_profile/power_profile.xml\";",
+      "parentUuid": "a5033205_01e4d5d9",
+      "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
