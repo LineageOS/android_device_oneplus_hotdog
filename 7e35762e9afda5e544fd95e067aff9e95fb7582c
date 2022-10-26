@@ -16,6 +16,24 @@
       "message": "how is this a correct power profile? It seems totally bogus.",
       "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bfd3c127_9300b1b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9760
+      },
+      "writtenOn": "2022-10-26T08:21:23Z",
+      "side": 1,
+      "message": "This is an overlay of what was.\nMount vendor.img and extract overlay/FrameworksResTarget.apk\nIt contains this overlay. Or am I wrong somewhere?",
+      "parentUuid": "b94d42df_d2f8d0e4",
+      "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
