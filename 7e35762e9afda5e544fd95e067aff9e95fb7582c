@@ -88,6 +88,24 @@
       "parentUuid": "9cfb5499_c0d20a7a",
       "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2935a21a_e8e3ad35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-10-26T08:36:45Z",
+      "side": 1,
+      "message": "OPlus made framework read file instead of overlay, therefore the correct solution is to just copy /odm/etc/power_profile/power_profile.xml to OPlusFrameworksResTarget, otherwise you end up using some unused bogus power profile for god knows what device.",
+      "parentUuid": "06a5aa62_278c2dc9",
+      "revId": "7e35762e9afda5e544fd95e067aff9e95fb7582c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
