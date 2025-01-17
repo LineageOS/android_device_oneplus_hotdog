@@ -12,7 +12,7 @@ odm/etc/acdbdata/Headset_cal.acdb
 odm/etc/acdbdata/Speaker_cal.acdb
 
 # Audio
-vendor/lib/hw/audio.primary.msmnile.so
+vendor/lib/hw/audio.primary.msmnile.so:odm/lib/hw/audio.primary.msmnile.so;MODULE_SUFFIX=_odm
 
 # Camera
 odm/etc/camera/vidhance_calibration
