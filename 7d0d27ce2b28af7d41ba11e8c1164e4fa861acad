@@ -87,6 +87,24 @@
       "parentUuid": "6c24e245_9d069c11",
       "revId": "7d0d27ce2b28af7d41ba11e8c1164e4fa861acad",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d757579_72ffc118",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9760
+      },
+      "writtenOn": "2026-05-14T07:45:08Z",
+      "side": 1,
+      "message": "Yes, I confirm. Hotdog gets a bootlup",
+      "parentUuid": "6c1ca68e_ee116ae4",
+      "revId": "7d0d27ce2b28af7d41ba11e8c1164e4fa861acad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
